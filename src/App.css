@@ -1,0 +1,19 @@
+.applogo{
+  display: flex;
+  flex-direction: column;
+  font-family: sans-serif;
+}
+
+.main{
+  display: flex;
+  flex-direction: row;
+}
+
+.main > *{
+  width:100%;
+}
+.app-main{
+
+  display: flex;
+
+}

@@ -1,0 +1,45 @@
+.container{
+
+    box-sizing: border-box;
+    padding: 16.5rem; 
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem; 
+    justify-content: center;
+}
+
+.container h1{
+    font-size: 3.125rem; 
+    font-weight: 600;
+    line-height: 4.6875rem;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.container h2{
+    font-size: 2.1875rem; 
+    line-height: 3.3125rem; 
+    text-align: left;
+}
+
+#p1{
+    margin-top: 1.875rem; 
+    font-size: 1rem; 
+    font-weight: 400;
+    line-height: 1.5rem; 
+    letter-spacing: 0em;
+    text-align: left;  
+}
+
+#p2{
+    font-size: 1rem; 
+    font-weight: 400;
+    line-height: 1.5rem; 
+    letter-spacing: 0em;
+    text-align: left;   
+}
+
+#p2 a{
+    color:#5284bc;
+    font-weight: 600;
+}

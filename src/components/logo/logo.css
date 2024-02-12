@@ -1,0 +1,13 @@
+.logo h1 {
+    width: 6.25rem; /* 100px / 16px = 6.25rem */
+    height: 1.875rem; 
+    margin-top: 1.9375rem; 
+    margin-left: 2.625rem; 
+    
+    font-family: Poppins;
+    font-size: 1.25rem; 
+    font-weight: 600;
+    line-height: 1.875rem; 
+    letter-spacing: 0em;
+    text-align: left;
+}
